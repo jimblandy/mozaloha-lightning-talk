@@ -24,17 +24,24 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.95753968"
-     inkscape:cx="561.33444"
-     inkscape:cy="396.85039"
+     inkscape:zoom="1.1087302"
+     inkscape:cx="561.00215"
+     inkscape:cy="508.69005"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="198.47041"
+       y="698.11873"
+       width="130.52785"
+       height="38.195368"
+       id="rect993" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -44,18 +51,67 @@
        id="rect1538"
        width="193.94902"
        height="17.572126"
-       x="22.495901"
-       y="92.191162" />
+       x="35.949661"
+       y="144.48106" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82223px;font-family:Ti;-inkscape-font-specification:Ti;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-opacity:1;font-stretch:normal;font-variant:normal"
-       x="121.42676"
-       y="100.97723"
-       id="text1704"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="34.048565"
+       y="187.0676"
+       id="text3183"><tspan
          sodipodi:role="line"
-         id="tspan1702"
-         style="stroke-width:0.3;-inkscape-font-specification:Ti;font-family:Ti;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="121.42676"
-         y="100.97723" /></text>
+         id="tspan3181"
+         style="stroke-width:0.264583"
+         x="34.048565"
+         y="187.0676" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="43.922142"
+       y="154.86848"
+       id="text3187"><tspan
+         sodipodi:role="line"
+         id="tspan3185"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
+         x="43.922142"
+         y="154.86848">wgpu-hal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="126.60684"
+       y="188.06876"
+       id="text3191"><tspan
+         sodipodi:role="line"
+         id="tspan3189"
+         style="stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="107.39289"
+       y="154.53848"
+       id="text3195"><tspan
+         sodipodi:role="line"
+         id="tspan3193"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="107.39289"
+         y="154.53848">hardware abstraction layer</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect4846"
+       width="60.142887"
+       height="19.411577"
+       x="36.17485"
+       y="174.8757" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="44.516869"
+       y="183.77049"
+       id="text4919"><tspan
+         sodipodi:role="line"
+         id="tspan4917"
+         style="stroke-width:0.264583"
+         x="44.516869"
+         y="183.77049">Vulkan</tspan></text>
   </g>
 </svg>
