@@ -33,13 +33,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true">
-    <sodipodi:guide
-       position="20.447369,162.75"
-       orientation="1,0"
-       id="guide8837"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     showguides="true" />
   <defs
      id="defs2">
     <rect
@@ -53,83 +47,75 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="37.408428"
+       y="200.16318"
+       id="text3183"><tspan
+         sodipodi:role="line"
+         id="tspan3181"
+         style="stroke-width:0.264583"
+         x="37.408428"
+         y="200.16318" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="129.96671"
+       y="201.16434"
+       id="text3191"><tspan
+         sodipodi:role="line"
+         id="tspan3189"
+         style="stroke-width:0.264583"
+         x="129.96671"
+         y="201.16434" /></text>
     <g
-       id="g9226"
-       transform="translate(7.5786579)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="29.829769"
-         y="200.16318"
-         id="text3183"><tspan
-           sodipodi:role="line"
-           id="tspan3181"
-           style="stroke-width:0.264583"
-           x="29.829769"
-           y="200.16318" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="122.38805"
-         y="201.16434"
-         id="text3191"><tspan
-           sodipodi:role="line"
-           id="tspan3189"
-           style="stroke-width:0.264583"
-           x="122.38805"
-           y="201.16434" /></text>
+       id="g9742">
       <g
          id="g4701"
-         transform="translate(-4.218794,-10.301679)">
-        <rect
-           style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
+         transform="matrix(1,0,0,0.99691145,3.3598639,-10.125537)"
+         style="stroke-width:1.00155">
+        <path
            id="rect1538-5-1"
-           width="119.44961"
-           height="62.675213"
-           x="112.01522"
-           y="47.342232"
-           rx="3.9999998"
-           ry="4" />
+           style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.177053;stroke-opacity:1"
+           d="m 116.01528,62.045794 c -2.216,0 -4.00027,1.789285 -4.00027,4.012148 v 33.02261 c 0,2.017608 -2.0177,4.344268 -3.99987,4.344268 H 28.666088 c -2.215998,0 -3.999756,1.78929 -3.999756,4.01215 v 3.58294 c 0,2.22287 1.783758,4.01215 3.999756,4.01215 h 87.338852 c 0.003,1e-5 0.007,5.2e-4 0.0103,5.2e-4 h 111.44953 c 2.21599,0 4.00027,-1.7898 4.00027,-4.01267 V 66.057942 c 0,-2.222863 -1.78428,-4.012148 -4.00027,-4.012148 z"
+           sodipodi:nodetypes="ssccsssscssssss" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264993;stroke-opacity:1"
            x="116.87119"
-           y="61.832283"
+           y="74.898705"
            id="text3187-0-7"><tspan
              sodipodi:role="line"
              id="tspan3185-4-2"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264993"
              x="116.87119"
-             y="61.832283">gfx/wgpu_bindings</tspan></text>
+             y="74.898705">gfx/wgpu_bindings</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264993;-inkscape-stroke:none;stop-color:#000000"
            x="227.47836"
-           y="94.722031"
+           y="98.551491"
            id="text3195-8-7"><tspan
              sodipodi:role="line"
              id="tspan3193-7-2"
-             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
+             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264993"
              x="227.47836"
-             y="94.722031">command streaming</tspan><tspan
+             y="98.551491">command streaming</tspan><tspan
              sodipodi:role="line"
-             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
+             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264993"
              x="227.47836"
-             y="105.30537"
+             y="109.13483"
              id="tspan8917">error reporting, FFI</tspan></text>
       </g>
       <g
          id="g4701-7"
-         transform="translate(-4.218794,-43.113032)">
-        <rect
-           style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
+         transform="translate(3.3598639,-43.113032)">
+        <path
            id="rect1538-5-1-3"
-           width="84.096336"
-           height="62.675217"
-           x="24.666164"
-           y="80.153587"
-           rx="4"
-           ry="4" />
+           style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
+           d="m 28.666088,80.153665 c -2.215998,0 -3.999756,1.783758 -3.999756,3.999756 v 44.823619 c 0,2.216 1.783758,3.99976 3.999756,3.99976 h 76.096652 c 2.21599,0 3.99975,-1.78376 3.99975,-3.99976 V 95.673032 c 0,-1.993662 1.92578,-4.000173 3.92165,-4.000173 h 114.45821 c 2.21599,0 3.99975,-1.784275 3.99975,-4.000273 v -3.519165 c 0,-2.215998 -1.78376,-3.999756 -3.99975,-3.999756 H 104.76274 97.35957 Z"
+           sodipodi:nodetypes="ssssssccssssccs" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -145,27 +131,90 @@
            xml:space="preserve"
            style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;stop-color:#000000"
            x="102.81461"
-           y="125.9701"
+           y="117.40218"
            id="text3195-8-7-63"><tspan
              sodipodi:role="line"
              id="tspan3193-7-2-9"
              style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
              x="102.81461"
-             y="125.9701">WebIDL bindings</tspan><tspan
+             y="117.40218">WebIDL bindings</tspan><tspan
              sodipodi:role="line"
              style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
              x="102.81461"
-             y="136.55344"
+             y="127.98551"
              id="tspan8839">IPDL bindings</tspan></text>
       </g>
+    </g>
+    <g
+       id="g4701-7-4"
+       transform="translate(3.3598639,-63.35586)">
+      <rect
+         style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
+         id="rect1538-5-1-3-8"
+         width="206.7103"
+         height="17.295338"
+         x="24.754553"
+         y="80.153587"
+         rx="4.0000005"
+         ry="4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="29.451571"
+         y="92.712662"
+         id="text3187-0-7-6-1"><tspan
+           sodipodi:role="line"
+           id="tspan3185-4-2-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';stroke-width:0.264583"
+           x="29.451571"
+           y="92.712662">web content</tspan></text>
+    </g>
+    <g
+       id="g8535"
+       transform="translate(25.00032,5.0001307)">
       <g
-         id="g4701-7-4"
-         transform="translate(-4.218794,-63.35586)">
+         id="g4701-9"
+         transform="translate(-21.640456,22.509674)">
         <rect
            style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
-           id="rect1538-5-1-3-8"
+           id="rect1538-5-1-0"
+           width="206.79868"
+           height="29.863863"
+           x="24.666162"
+           y="80.153587"
+           rx="4"
+           ry="4" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="29.451571"
+           y="92.712662"
+           id="text3187-0-7-8"><tspan
+             sodipodi:role="line"
+             id="tspan3185-4-2-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
+             x="29.451571"
+             y="92.712662">wgpu-core</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;stop-color:#000000"
+           x="227.47836"
+           y="104.55025"
+           id="text3195-8-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan3193-7-2-0"
+             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
+             x="227.47836"
+             y="104.55025">validation, resource tracking, lowering</tspan></text>
+      </g>
+      <g
+         id="g4701-96"
+         transform="translate(-21.640456,55.321027)">
+        <rect
+           style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
+           id="rect1538-5-1-38"
            width="206.7103"
-           height="17.295338"
+           height="29.863863"
            x="24.754553"
            y="80.153587"
            rx="4.0000005"
@@ -175,288 +224,225 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
            x="29.451571"
            y="92.712662"
-           id="text3187-0-7-6-1"><tspan
+           id="text3187-0-7-5"><tspan
              sodipodi:role="line"
-             id="tspan3185-4-2-5-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';stroke-width:0.264583"
+             id="tspan3185-4-2-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
              x="29.451571"
-             y="92.712662">web content</tspan></text>
-      </g>
-      <g
-         id="g8535"
-         transform="translate(17.421662)">
-        <g
-           id="g4701-9"
-           transform="translate(-21.640456,22.509674)">
-          <rect
-             style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
-             id="rect1538-5-1-0"
-             width="206.79868"
-             height="29.863863"
-             x="24.666162"
-             y="80.153587"
-             rx="4"
-             ry="4" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-             x="29.451571"
-             y="92.712662"
-             id="text3187-0-7-8"><tspan
-               sodipodi:role="line"
-               id="tspan3185-4-2-8"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
-               x="29.451571"
-               y="92.712662">wgpu-core</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+             y="92.712662">wgpu-hal</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;stop-color:#000000"
+           x="227.47836"
+           y="104.55025"
+           id="text3195-8-7-1"><tspan
+             sodipodi:role="line"
+             id="tspan3193-7-2-1"
+             style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
              x="227.47836"
-             y="104.55025"
-             id="text3195-8-7-5"><tspan
-               sodipodi:role="line"
-               id="tspan3193-7-2-0"
-               style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
-               x="227.47836"
-               y="104.55025">validation, resource tracking, lowering</tspan></text>
-        </g>
-        <g
-           id="g4701-96"
-           transform="translate(-21.640456,55.321027)">
-          <rect
-             style="fill:#000000;fill-opacity:0.0904447;stroke:#000000;stroke-width:0.176779;stroke-opacity:1"
-             id="rect1538-5-1-38"
-             width="206.7103"
-             height="29.863863"
-             x="24.754553"
-             y="80.153587"
-             rx="4.0000005"
-             ry="4" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-             x="29.451571"
-             y="92.712662"
-             id="text3187-0-7-5"><tspan
-               sodipodi:role="line"
-               id="tspan3185-4-2-6"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';stroke-width:0.264583"
-               x="29.451571"
-               y="92.712662">wgpu-hal</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:8.46667px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-             x="227.47836"
-             y="104.55025"
-             id="text3195-8-7-1"><tspan
-               sodipodi:role="line"
-               id="tspan3193-7-2-1"
-               style="font-size:8.46667px;text-align:end;text-anchor:end;stroke-width:0.264583"
-               x="227.47836"
-               y="104.55025">hardware abstraction layer</tspan></text>
-        </g>
+             y="104.55025">hardware abstraction layer</tspan></text>
       </g>
-      <g
-         id="g5158"
-         transform="translate(-19.37611,6.592852)">
-        <rect
-           style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           id="rect4846"
-           width="60.142887"
-           height="24.916306"
-           x="39.823479"
-           y="161.69312"
-           rx="4"
-           ry="4" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="43.819744"
-           y="173.95869"
-           id="text4919"><tspan
-             sodipodi:role="line"
-             id="tspan4917"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-             x="43.819744"
-             y="173.95869">Vulkan</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="96.409546"
-           y="182.57852"
-           id="text3195-1"><tspan
-             sodipodi:role="line"
-             id="tspan3193-1"
-             style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
-             x="96.409546"
-             y="182.57852">Linux, Android</tspan></text>
-      </g>
-      <g
-         id="g5158-5"
-         transform="translate(48.882043,6.592852)">
-        <rect
-           style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           id="rect4846-98"
-           width="77.926392"
-           height="24.916306"
-           x="36.001469"
-           y="161.69312"
-           rx="3.9999995"
-           ry="4" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="38.951836"
-           y="173.95869"
-           id="text4919-48"><tspan
-             sodipodi:role="line"
-             id="tspan4917-1"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-             x="38.951836"
-             y="173.95869">Direct3D 12</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="109.78172"
-           y="182.57852"
-           id="text3195-1-0"><tspan
-             sodipodi:role="line"
-             id="tspan3193-1-3"
-             style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
-             x="109.78172"
-             y="182.57852">Windows</tspan></text>
-      </g>
-      <g
-         id="g5158-0"
-         transform="translate(127.27968,6.592852)">
-        <rect
-           style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-           id="rect4846-4"
-           width="60.142887"
-           height="24.916306"
-           x="39.823479"
-           y="161.69312"
-           rx="4"
-           ry="4" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="43.819744"
-           y="173.95869"
-           id="text4919-44"><tspan
-             sodipodi:role="line"
-             id="tspan4917-4"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-             x="43.819744"
-             y="173.95869">Metal</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
-           x="96.409546"
-           y="182.57852"
-           id="text3195-1-7"><tspan
-             sodipodi:role="line"
-             id="tspan3193-1-6"
-             style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
-             x="96.409546"
-             y="182.57852">macOS, iOS</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="98.697418"
-         y="62.980782"
-         id="text5816"><tspan
-           sodipodi:role="line"
-           id="tspan5814"
-           style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
-           x="98.697418"
-           y="62.980782">C++</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="223.20877"
-         y="62.980782"
-         id="text5816-3"><tspan
-           sodipodi:role="line"
-           id="tspan5814-1"
-           style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
-           x="223.20877"
-           y="62.980782">Rust</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="223.36118"
-         y="112.70438"
-         id="text5816-3-7"><tspan
-           sodipodi:role="line"
-           id="tspan5814-1-5"
-           style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
-           x="223.36118"
-           y="112.70438">Rust</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="223.36118"
-         y="145.662"
-         id="text5816-3-9"><tspan
-           sodipodi:role="line"
-           id="tspan5814-1-6"
-           style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
-           x="223.36118"
-           y="145.662">Rust</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="223.00558"
-         y="26.190271"
-         id="text5816-3-2"><tspan
-           sodipodi:role="line"
-           id="tspan5814-1-1"
-           style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
-           x="223.00558"
-           y="26.190271">JavaScript</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="37.301369"
-         y="-247.65479"
-         id="text6284"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           id="tspan6282"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
-           x="37.301369"
-           y="-247.65479">Mozilla</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
-           x="37.301369"
-           y="-229.87474"
-           id="tspan6338">Central</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="168.86113"
-         y="-229.87474"
-         id="text6284-74"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
-           x="168.86113"
-           y="-229.87474"
-           id="tspan9076">OS</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
-         x="133.93173"
-         y="-229.87474"
-         id="text6284-7"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:center;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
-           x="133.93173"
-           y="-229.87474"
-           id="tspan6338-5">GitHub</tspan></text>
     </g>
+    <g
+       id="g5158"
+       transform="translate(-11.797452,11.592732)">
+      <rect
+         style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect4846"
+         width="60.142887"
+         height="24.916306"
+         x="39.823479"
+         y="161.69312"
+         rx="4"
+         ry="4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="43.819744"
+         y="173.95869"
+         id="text4919"><tspan
+           sodipodi:role="line"
+           id="tspan4917"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="43.819744"
+           y="173.95869">Vulkan</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="96.409546"
+         y="182.57852"
+         id="text3195-1"><tspan
+           sodipodi:role="line"
+           id="tspan3193-1"
+           style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="96.409546"
+           y="182.57852">Linux, Android</tspan></text>
+    </g>
+    <g
+       id="g5158-5"
+       transform="translate(56.460701,11.592732)">
+      <rect
+         style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect4846-98"
+         width="77.926392"
+         height="24.916306"
+         x="36.001469"
+         y="161.69312"
+         rx="3.9999995"
+         ry="4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="38.951836"
+         y="173.95869"
+         id="text4919-48"><tspan
+           sodipodi:role="line"
+           id="tspan4917-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="38.951836"
+           y="173.95869">Direct3D 12</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="109.78172"
+         y="182.57852"
+         id="text3195-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan3193-1-3"
+           style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="109.78172"
+           y="182.57852">Windows</tspan></text>
+    </g>
+    <g
+       id="g5158-0"
+       transform="translate(134.85834,11.592732)">
+      <rect
+         style="font-variation-settings:normal;fill:#000000;fill-opacity:0.0904447;fill-rule:evenodd;stroke:#000000;stroke-width:0.176779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect4846-4"
+         width="60.142887"
+         height="24.916306"
+         x="39.823479"
+         y="161.69312"
+         rx="4"
+         ry="4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="43.819744"
+         y="173.95869"
+         id="text4919-44"><tspan
+           sodipodi:role="line"
+           id="tspan4917-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="43.819744"
+           y="173.95869">Metal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:end;text-decoration-color:#000000;text-anchor:end;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="96.409546"
+         y="182.57852"
+         id="text3195-1-7"><tspan
+           sodipodi:role="line"
+           id="tspan3193-1-6"
+           style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="96.409546"
+           y="182.57852">macOS, iOS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="106.27608"
+       y="62.980782"
+       id="text5816"><tspan
+         sodipodi:role="line"
+         id="tspan5814"
+         style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
+         x="106.27608"
+         y="62.980782">C++</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="230.78743"
+       y="76.042564"
+       id="text5816-3"><tspan
+         sodipodi:role="line"
+         id="tspan5814-1"
+         style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
+         x="230.78743"
+         y="76.042564">Rust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="230.93983"
+       y="117.70393"
+       id="text5816-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan5814-1-5"
+         style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
+         x="230.93983"
+         y="117.70393">Rust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="230.93983"
+       y="150.66156"
+       id="text5816-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan5814-1-6"
+         style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
+         x="230.93983"
+         y="150.66156">Rust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="230.58424"
+       y="26.190271"
+       id="text5816-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan5814-1-1"
+         style="font-size:8.46667px;fill:#8d8d8d;fill-opacity:1;stroke-width:0.3"
+         x="230.58424"
+         y="26.190271">JavaScript</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="39.572407"
+       y="-255.23344"
+       id="text6284"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan6282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
+         x="39.572407"
+         y="-255.23344">Mozilla</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
+         x="39.572407"
+         y="-237.4534"
+         id="tspan6338">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="173.86101"
+       y="-237.4534"
+       id="text6284-74"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:start;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
+         x="173.86101"
+         y="-237.4534"
+         id="tspan9076">OS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-opacity:1"
+       x="138.93187"
+       y="-237.4534"
+       id="text6284-7"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-align:center;text-anchor:middle;fill:#c8c8c8;fill-opacity:1;stroke-width:0.3"
+         x="138.93187"
+         y="-237.4534"
+         id="tspan6338-5">GitHub</tspan></text>
   </g>
 </svg>
