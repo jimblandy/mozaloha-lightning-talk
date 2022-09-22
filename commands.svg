@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg388"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="commands.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview390"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.95753968"
+     inkscape:cx="561.33444"
+     inkscape:cy="396.85039"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g709" />
+  <defs
+     id="defs385" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g709"
+       transform="translate(16.109426,1.1300884)">
+      <g
+         id="g724"
+         transform="translate(50.529091,-7.4583676)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.3"
+           x="113.54636"
+           y="45.378395"
+           id="text563"><tspan
+             sodipodi:role="line"
+             id="tspan561"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';stroke-width:0.3"
+             x="113.54636"
+             y="45.378395">command buffers</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.3"
+           x="88.901184"
+           y="61.546597"
+           id="text715"><tspan
+             sodipodi:role="line"
+             id="tspan713"
+             style="stroke-width:0.3"
+             x="88.901184"
+             y="61.546597">and <tspan
+   style="letter-spacing:0.486833px"
+   id="tspan717">bundles</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.3"
+         x="-7.5317659"
+         y="191.02811"
+         id="text849"><tspan
+           sodipodi:role="line"
+           id="tspan847"
+           style="stroke-width:0.3"
+           x="-7.5317659"
+           y="191.02811">co<tspan
+   style="letter-spacing:0.0529167px"
+   id="tspan851">m</tspan><tspan
+   id="tspan855"
+   style="letter-spacing:0.079375px">p</tspan><tspan
+   id="tspan859"
+   style="letter-spacing:0.132292px">u</tspan><tspan
+   id="tspan863"
+   style="letter-spacing:0.211667px">t</tspan><tspan
+   id="tspan867"
+   style="letter-spacing:0.343958px">e</tspan><tspan
+   id="tspan871"
+   style="letter-spacing:0.555625px"> </tspan><tspan
+   id="tspan877"
+   style="letter-spacing:0.899583px">p</tspan><tspan
+   id="tspan881"
+   style="letter-spacing:1.45521px">i</tspan><tspan
+   id="tspan885"
+   style="letter-spacing:2.35479px">p</tspan><tspan
+   id="tspan889"
+   style="letter-spacing:3.81px">e</tspan><tspan
+   id="tspan893"
+   style="letter-spacing:6.16479px">l</tspan><tspan
+   id="tspan897"
+   style="letter-spacing:9.97479px">i</tspan><tspan
+   id="tspan901"
+   style="letter-spacing:16.1396px">n</tspan><tspan
+   id="tspan905"
+   style="letter-spacing:26.1144px">es</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-align:start;letter-spacing:0.362479px;text-anchor:start;fill:#000000;stroke-width:0.3"
+       x="25.915384"
+       y="88.394066"
+       id="text699"><tspan
+         sodipodi:role="line"
+         id="tspan697"
+         style="text-align:start;text-anchor:start;stroke-width:0.3"
+         x="25.915384"
+         y="88.394066">shader  modules</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.3"
+       x="102.44487"
+       y="100.5822"
+       id="text703"><tspan
+         sodipodi:role="line"
+         id="tspan701"
+         style="stroke-width:0.3"
+         x="102.44487"
+         y="100.5822">and pipelines</tspan></text>
+  </g>
+</svg>
