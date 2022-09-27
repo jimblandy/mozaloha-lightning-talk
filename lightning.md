@@ -66,21 +66,21 @@ cross-platform implementation of the heart of the WebGPU standard,
 written in Rust. `wgpu-core` is part of `wgpu`, an independent
 open-source project maintained on GitHub.
 
-2:35
-
-### Slide 4
-
 As you might guess, there are a **lot** of native developers out there
 interested in a well-designed cross-platform GPU API. So `wgpu` is a
 very active, healthy open-source project, with many talented
 contributors from outside Mozilla. It's a classic open-source
 success story.
 
+2:35
+
+### Slide 4
+
 To serve those audiences, the `wgpu` crate provides an idiomatic
-Rustic interface. The `wgpu-native` crate provides an API designed to
-be called from C or C++, and on top of that we have bindings for many
-other languages: Python, Go, Java, C#, and others. So you can really
-use the spirit of WebGPU anywhere you like.
+Rustic interface, and the `wgpu-native` crate provides an API designed
+to be called from C or C++, and on top of that we have bindings for
+many other languages: Python, Go, Java, C#, and others. So you can
+really use the spirit of WebGPU anywhere you like.
 
 3:11
 
