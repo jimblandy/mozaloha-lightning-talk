@@ -7,6 +7,10 @@ slides='
   trains
   WebGPU-block
   next-goals
+  wgpu-opening
+  wgpu-users
+  wgpu-new
+  wgpu-work
 '
 
 for slide in $slides; do
