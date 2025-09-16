@@ -4,13 +4,9 @@ set -eu
 
 slides='
   opening
-  what-is
+  trains
   WebGPU-block
-  native
-  commands
-  try-it
-  try-it-2
-  final
+  next-goals
 '
 
 for slide in $slides; do
