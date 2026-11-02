@@ -4,14 +4,19 @@ set -eu
 
 slides='
   opening
-  trains
-  WebGPU-block
-  next-goals
-  wgpu-opening
-  wgpu-users
-  wgpu-new
-  wgpu-work
+  headlines
+  shipped-on-macos
+  linux-preparation
+  kit-looking-at-cubes
 '
+
+#  trains
+#  WebGPU-block
+#  next-goals
+#  wgpu-opening
+#  wgpu-users
+#  wgpu-new
+#  wgpu-work
 
 for slide in $slides; do
     if ! [ -f "$slide.svg" ]; then
