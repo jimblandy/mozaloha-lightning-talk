@@ -7,6 +7,10 @@ slides='
   headlines
   shipped-on-macos
   linux-preparation
+  security
+  features
+  architecture
+  challenges
   kit-looking-at-cubes
 '
 
@@ -28,6 +32,7 @@ done
 mkdir -p pdf
 pdfs=
 for slide in $slides; do
+    echo $slide
     pdf=pdf/$slide.pdf
     inkscape --export-area-page \
              --export-dpi=300 \
